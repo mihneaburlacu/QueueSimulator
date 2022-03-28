@@ -1,0 +1,42 @@
+Time 0:
+Server number 1
+Server closedServer number 2
+Server closedTime 1:
+Server number 1
+Server closedServer number 2
+Server closedTime 2:
+Server number 1
+Server closedServer number 2
+Server closedTime 3:
+Server number 1
+(1, 3, 1, 4)
+Server number 2
+Server closedTime 4:
+Server number 1
+(3, 4, 2, 6)
+Server number 2
+Server closedTime 5:
+Server number 1
+(3, 4, 2, 6)
+Server number 2
+(0, 5, 1, 6)
+(2, 5, 2, 8)
+Time 6:
+Server number 1
+Server closedServer number 2
+(0, 5, 1, 6)
+(2, 5, 2, 8)
+Time 7:
+Server number 1
+Server closedServer number 2
+(2, 5, 2, 8)
+Time 8:
+Server number 1
+Server closedServer number 2
+Server closedTime 9:
+Server number 1
+Server closedServer number 2
+Server closedTime 10:
+Server number 1
+Server closedServer number 2
+Server closed
