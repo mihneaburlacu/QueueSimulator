@@ -1,0 +1,194 @@
+Time 0:
+Server number 1
+Server number 2
+Time 1:
+Server number 1
+Server number 2
+Time 2:
+Server number 1
+Server number 2
+Time 3:
+Server number 1
+Server number 2
+Time 4:
+Server number 1
+Server number 2
+Time 5:
+Server number 1
+Server number 2
+Time 6:
+Server number 1
+(1, 6, 3, 9)
+Server number 2
+Time 7:
+Server number 1
+(1, 6, 3, 9)
+Server number 2
+Time 8:
+Server number 1
+(1, 6, 3, 9)
+Server number 2
+Time 9:
+Server number 1
+Server number 2
+Time 10:
+Server number 1
+Server number 2
+Time 11:
+Server number 1
+Server number 2
+Time 12:
+Server number 1
+(0, 12, 4, 16)
+Server number 2
+Time 13:
+Server number 1
+(0, 12, 4, 16)
+Server number 2
+Time 14:
+Server number 1
+(0, 12, 4, 16)
+Server number 2
+Time 15:
+Server number 1
+(0, 12, 4, 16)
+Server number 2
+Time 16:
+Server number 1
+Server number 2
+Time 17:
+Server number 1
+Server number 2
+Time 18:
+Server number 1
+Server number 2
+Time 19:
+Server number 1
+(3, 19, 2, 21)
+Server number 2
+Time 20:
+Server number 1
+(3, 19, 2, 21)
+Server number 2
+Time 21:
+Server number 1
+Server number 2
+Time 22:
+Server number 1
+Server number 2
+Time 23:
+Server number 1
+Server number 2
+Time 24:
+Server number 1
+Server number 2
+Time 25:
+Server number 1
+Server number 2
+Time 26:
+Server number 1
+Server number 2
+Time 27:
+Server number 1
+Server number 2
+Time 28:
+Server number 1
+Server number 2
+Time 29:
+Server number 1
+Server number 2
+Time 30:
+Server number 1
+(2, 30, 2, 32)
+Server number 2
+Time 31:
+Server number 1
+(2, 30, 2, 32)
+Server number 2
+Time 32:
+Server number 1
+Server number 2
+Time 33:
+Server number 1
+Server number 2
+Time 34:
+Server number 1
+Server number 2
+Time 35:
+Server number 1
+Server number 2
+Time 36:
+Server number 1
+Server number 2
+Time 37:
+Server number 1
+Server number 2
+Time 38:
+Server number 1
+Server number 2
+Time 39:
+Server number 1
+Server number 2
+Time 40:
+Server number 1
+Server number 2
+Time 41:
+Server number 1
+Server number 2
+Time 42:
+Server number 1
+Server number 2
+Time 43:
+Server number 1
+Server number 2
+Time 44:
+Server number 1
+Server number 2
+Time 45:
+Server number 1
+Server number 2
+Time 46:
+Server number 1
+Server number 2
+Time 47:
+Server number 1
+Server number 2
+Time 48:
+Server number 1
+Server number 2
+Time 49:
+Server number 1
+Server number 2
+Time 50:
+Server number 1
+Server number 2
+Time 51:
+Server number 1
+Server number 2
+Time 52:
+Server number 1
+Server number 2
+Time 53:
+Server number 1
+Server number 2
+Time 54:
+Server number 1
+Server number 2
+Time 55:
+Server number 1
+Server number 2
+Time 56:
+Server number 1
+Server number 2
+Time 57:
+Server number 1
+Server number 2
+Time 58:
+Server number 1
+Server number 2
+Time 59:
+Server number 1
+Server number 2
+Time 60:
+Server number 1
+Server number 2

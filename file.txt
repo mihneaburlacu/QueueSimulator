@@ -1,42 +1,80 @@
 Time 0:
 Server number 1
-Server closedServer number 2
-Server closedTime 1:
-Server number 1
-Server closedServer number 2
-Server closedTime 2:
-Server number 1
-Server closedServer number 2
-Server closedTime 3:
-Server number 1
-(1, 3, 1, 4)
+Server closed
 Server number 2
-Server closedTime 4:
+Server closed
+Time 1:
 Server number 1
-(3, 4, 2, 6)
+(4, 1, 3, 4)
 Server number 2
-Server closedTime 5:
+Server closed
+Time 2:
 Server number 1
-(3, 4, 2, 6)
+(4, 1, 3, 4)
 Server number 2
-(0, 5, 1, 6)
-(2, 5, 2, 8)
+Server closed
+Time 3:
+Server number 1
+(4, 1, 3, 4)
+Server number 2
+(2, 3, 3, 6)
+Time 4:
+Server number 1
+Server closed
+Server number 2
+(2, 3, 3, 6)
+Time 5:
+Server number 1
+Server closed
+Server number 2
+(2, 3, 3, 6)
 Time 6:
 Server number 1
-Server closedServer number 2
-(0, 5, 1, 6)
-(2, 5, 2, 8)
+Server closed
+Server number 2
+Server closed
 Time 7:
 Server number 1
-Server closedServer number 2
-(2, 5, 2, 8)
+(0, 7, 2, 9)
+Server number 2
+Server closed
 Time 8:
 Server number 1
-Server closedServer number 2
-Server closedTime 9:
+(0, 7, 2, 9)
+Server number 2
+Server closed
+Time 9:
 Server number 1
-Server closedServer number 2
-Server closedTime 10:
+Server closed
+Server number 2
+Server closed
+Time 10:
 Server number 1
-Server closedServer number 2
+(3, 10, 2, 12)
+Server number 2
+Server closed
+Time 11:
+Server number 1
+(3, 10, 2, 12)
+Server number 2
+Server closed
+Time 12:
+Server number 1
+(1, 12, 1, 13)
+Server number 2
+Server closed
+Time 13:
+Server number 1
+Server closed
+Server number 2
+Server closed
+Time 14:
+Server number 1
+Server closed
+Server number 2
+Server closed
+Time 15:
+Server number 1
+Server closed
+Server number 2
 Server closed
